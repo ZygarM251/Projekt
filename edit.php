@@ -35,6 +35,7 @@
 </div>
 <div id="formularz"> 
     <form method="post" action="">
+        <h1>Edytuj Ogłoszenie</h1>
         Marka:<input type="text" name="name" value=""><br>
         Model:<input type="text" name="model" value=""><br>
         Rocznik:<input type="number" name="year" value=""><br>
